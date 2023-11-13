@@ -1,0 +1,49 @@
+.viagem_mainDiv{
+border:1px solid;
+text-align:center;
+}
+
+
+.viagem_mainDiv img{
+width:70%;
+
+
+}
+.viagem_mainDiv h5, .viagem_mainDiv p{
+margin:20px;
+
+
+}
+
+.imgFilme{
+width:300px;
+height: 300px;
+display:block;
+margin-right: auto;
+margin-left: auto;    
+}
+.filmesHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmesHead i{
+float:right;
+}
+.filmesText{
+    text-align:center;
+}
+#Livros{
+    margin-bottom: 20px;    
+}
+.img-responsive{
+width:300px;
+height:400px;
+}
+.img-circle{
+width: 100px !important;
+height:100px !important;
+
+}
